@@ -1,0 +1,2 @@
+def fun(hai):
+	print ("Hello World")
